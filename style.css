@@ -43,6 +43,7 @@
     width: 120px;
     background-color: #eee;
     padding: 10px 0;
+    font-size: 14px;
 }
 .navbar-li a {
     text-decoration: none;
