@@ -1,4 +1,5 @@
 
+
 .wraper {
     width: 1260px;
     font-family: sans-serif;
@@ -147,7 +148,7 @@
     color: rgb(115, 203, 251);
 }
 footer {
-    width: 1260px;
+    width: 110%;
     background-color: #7e7e7e;
 }
 .footer-content {
